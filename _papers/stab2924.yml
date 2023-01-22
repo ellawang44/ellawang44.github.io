@@ -1,0 +1,48 @@
+---
+ENTRYTYPE: article
+ID: stab2924
+abstract: "{The detection of 6Li in Spite plateau stars contradicts the standard big\
+  \ bang nucleosynthesis prediction, known as the second cosmological lithium problem.\
+  \ We measure the isotopic ratio 6Li/7Li in three Spite plateau stars: HD 84937,\
+  \ HD 140283, and LP 815\u221243. We use 3D non-local thermodynamic equilibrium radiative\
+  \ transfer and for the first time apply this to high-resolution, high signal-to-noise\
+  \ ratio data from the ultra-stable ESPRESSO/Very Large Telescope spectrograph. These\
+  \ are among the best spectra ever taken of any metal-poor stars. As the measurement\
+  \ of 6Li/7Li is degenerate with other physical stellar parameters, we employ Markov\
+  \ chain Monte Carlo methods to find the probability distributions of measured parameters.\
+  \ As a test of systematics, we also use three different fitting methods. We do not\
+  \ detect 6Li in any of the three stars, and find consistent results between our\
+  \ different methods. We estimate 2\u03C3 upper limits to 6Li/7Li of 0.7, 0.6, and\
+  \ 1.7 per cent, respectively, for HD 84937, HD 140283, and LP 815\u221243. Our results\
+  \ indicate that there is no second cosmological lithium problem, as there is no\
+  \ evidence of 6Li in Spite plateau stars.}"
+author: Wang, Ella Xi and Nordlander, Thomas and Asplund, Martin and Lind, Karin and
+  Zhou, Yixiao and Reggiani, Henrique
+authors:
+- Ella Xi Wang
+- Thomas Nordlander
+- Martin Asplund
+- Karin Lind
+- Yixiao Zhou
+- Henrique Reggiani
+bdsk-url-1: https://doi.org/10.1093/mnras/stab2924
+category: null
+date: 2023-01-22 17:29:25.327950
+date-added: 2023-01-22 16:49:17 +1100
+date-modified: 2023-01-22 16:49:17 +1100
+doi: 10.1093/mnras/stab2924
+eprint: https://academic.oup.com/mnras/article-pdf/509/1/1521/41161150/stab2924.pdf
+ispublished: true
+issn: 0035-8711
+journal: Monthly Notices of the Royal Astronomical Society
+month: '10'
+number: '1'
+pages: 1521-1535
+poster: null
+title: Non-detection of 6Li in Spite plateau stars with ESPRESSO
+url: null
+venue: Monthly Notices of the Royal Astronomical Society
+video: null
+volume: '509'
+year: '2021'
+...

@@ -1,0 +1,54 @@
+---
+ENTRYTYPE: article
+ID: staa3381
+abstract: "{Accurately known stellar lithium abundances may be used to shed light\
+  \ on a variety of astrophysical phenomena such as big bang nucleosynthesis, radial\
+  \ migration, ages of stars and stellar clusters, and planet engulfment events. We\
+  \ present a grid of synthetic lithium spectra that are computed in non-local thermodynamic\
+  \ equilibrium (NLTE) across the stagger grid of three-dimensional (3D) hydrodynamic\
+  \ stellar atmosphere models. This grid covers three Li lines at 610.4, 670.8, and\
+  \ 812.6\u2009nm for stellar parameters representative of FGK-type dwarfs and giants,\
+  \ spanning Teff = 4000--7000\u2009K, log\u2009g = 1.5--5.0, \\\\$[\\\\rm \\\\{Fe\\\
+  \\}/\\\\rm \\\\{H\\\\}]= -4.0\\\\$--0.5, and A(Li) = \u22120.5--4.0. We find that\
+  \ our abundance corrections are up to 0.15\u2009dex more negative than in previous\
+  \ work, due to a previously overlooked NLTE effect of blocking of UV lithium lines\
+  \ by background opacities, which has important implications for a wide range of\
+  \ science cases. We derive a new 3D NLTE solar abundance of A(Li) = 0.96 $\\pm$\
+  \ 0.05, which is 0.09\u2009dex lower than the commonly used value. We make our grids\
+  \ of synthetic spectra and abundance corrections publicly available through the\
+  \ breidablik package. This package includes methods for accurately interpolating\
+  \ our grid to arbitrary stellar parameters through methods based on Kriging (Gaussian\
+  \ process regression) for line profiles, and multilayer perceptrons (a class of\
+  \ fully connected feedforward neural networks) for NLTE corrections and 3D NLTE\
+  \ abundances from equivalent widths, achieving interpolation errors of the order\
+  \ of 0.01\u2009dex.}"
+author: Wang, Ella Xi and Nordlander, Thomas and Asplund, Martin and Amarsi, Anish
+  M and Lind, Karin and Zhou, Yixiao
+authors:
+- Ella Xi Wang
+- Thomas Nordlander
+- Martin Asplund
+- Anish M Amarsi
+- Karin Lind
+- Yixiao Zhou
+bdsk-url-1: https://doi.org/10.1093/mnras/staa3381
+category: null
+date: 2023-01-22 17:29:25.345446
+date-added: 2023-01-22 16:49:17 +1100
+date-modified: 2023-01-22 16:49:17 +1100
+doi: 10.1093/mnras/staa3381
+eprint: https://academic.oup.com/mnras/article-pdf/500/2/2159/34475336/staa3381.pdf
+ispublished: true
+issn: 0035-8711
+journal: Monthly Notices of the Royal Astronomical Society
+month: '10'
+number: '2'
+pages: 2159-2176
+poster: null
+title: 3D NLTE spectral line formation of lithium in late-type stars
+url: null
+venue: Monthly Notices of the Royal Astronomical Society
+video: null
+volume: '500'
+year: '2020'
+...

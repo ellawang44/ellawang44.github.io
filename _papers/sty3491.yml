@@ -1,0 +1,50 @@
+---
+ENTRYTYPE: article
+ID: sty3491
+abstract: '{Most cosmological simulations of galaxy evolution include active galactic
+  nucleus (AGN) feedback, typically seeding black holes with masses of \\$\\ge 10^5\\,
+  h^\\{-1\\}\\, \\rm \\{M\\}\_\\{\\odot \\}\\$ when the dark matter halo exceeds a
+  given threshold mass. Taylor \\&amp; Kobayashi introduced a new model, which seeds
+  black holes at \\$10^3\\, h^\\{-1\\}\\, \\rm \\{M\\}\_\\{\\odot \\}\\$ based on
+  gas properties alone, and motivated by the channel of black hole formation due to
+  the collapse of the most massive first stars in the Universe.
+
+  We compare the black hole mass when the dark matter halo mass is \\$10^\\{10\\}\\,
+  h^\\{-1\\}\\, \\rm \\{M\\}\_\\{\\odot \\}\\$ between the different seeding methods.
+  We find that seeding based upon gas properties gives a distribution of black hole
+  masses with \\$\\langle \\log M\_\\{\\rm \\{BH\\}\\}\\{/ \\rm \\{M\\}\_\\{\\odot
+  \\}\\} \\rangle = (5.18 \\pm 0.54)\\$ when dark matter halo mass is \\$10^\\{10\\}\\,
+  h^\\{-1\\}\\, \\rm \\{M\\}\_\\{\\odot \\}\\$, consistent with the seeding criteria
+  used in other simulations. However, the evolution of individual galaxies can be
+  strongly affected by the different seeding mechanisms. We also find that the mean
+  value of the distribution of black hole masses at a given halo mass evolves over
+  time, with higher masses at higher redshifts, indicative of downsizing. Our results
+  can inform more physically motivated black hole and AGN feedback models in cosmological
+  simulations and semi-analytic models.}'
+author: Wang, Ella Xi and Taylor, Philip and Federrath, Christoph and Kobayashi, Chiaki
+authors:
+- Ella Xi Wang
+- Philip Taylor
+- Christoph Federrath
+- Chiaki Kobayashi
+bdsk-url-1: https://doi.org/10.1093/mnras/sty3491
+category: null
+date: 2023-01-22 17:29:25.353565
+date-added: 2023-01-22 16:49:17 +1100
+date-modified: 2023-01-22 16:49:17 +1100
+doi: 10.1093/mnras/sty3491
+eprint: https://academic.oup.com/mnras/article-pdf/483/4/4640/27379033/sty3491.pdf
+ispublished: true
+issn: 0035-8711
+journal: Monthly Notices of the Royal Astronomical Society
+month: '12'
+number: '4'
+pages: 4640-4648
+poster: null
+title: The impact of black hole seeding in cosmological simulations
+url: null
+venue: Monthly Notices of the Royal Astronomical Society
+video: null
+volume: '483'
+year: '2018'
+...

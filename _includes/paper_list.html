@@ -20,6 +20,8 @@
             <li>
             {% if author contains site.author or site.author contains author %}
                 <b>{{ author | strip | escape }}</b>
+            {% elsif site.aka contains author %}
+                <b>{{ author | strip | escape }}</b>
             {% else %}
                 {{ author | strip | escape }}
             {% endif %}
