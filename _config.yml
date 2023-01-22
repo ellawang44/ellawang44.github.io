@@ -27,7 +27,7 @@ email: ella [dot] xi [dot] wang [at] gmail [dot] com
 description: >- # this means to ignore newlines until "baseurl:"
   PhD Student
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://ellaxiwang.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://ellawang44.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: na
 github_username: ellawang44
 
