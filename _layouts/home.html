@@ -32,21 +32,17 @@ layout: default
   -->
 
   <!-- Create paper list of publications -->
-  {% assign published_papers = site.papers | where: "ispublished", true | sort: year | reverse %}
-  {% if published_papers %}
+  {% assign published_papers = site.papers | where: "ispublished", true | sort: "year" | reverse %}
   <h2 class="paper-list-heading">Publications</h2>
   <hr class="title-line">
   {% include paper_list.html papers=published_papers %}
-  {% endif %}
 
   <!-- Create paper list of preprints -->
-  {% assign preprint_papers = site.papers | where: "ispublished", false | sort: year | reverse %}
-  {% if preprint_papers.size > 1 %}
-    {% if preprint_papers %}
+  {% assign preprint_papers = site.papers | where: "ispublished", false | sort: "year" | reverse %}
+  {% if preprint_papers.size > 0 %}
     <h2 class="paper-list-heading">Preprints</h2>
     <hr class="title-line">
     {% include paper_list.html papers=preprint_papers %}
-    {% endif %}
   {% endif %}
 
 </div>

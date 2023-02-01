@@ -1,7 +1,5 @@
 <ol class="paper-list">
-{% assign years = include.papers | group_by: "year" %}
-{% for yitem in years %}
-    {% for paper in yitem.items %}
+    {% for paper in include.papers %}
     <li>
         <!-- Title -->
         {% if paper.docurl == null %}
@@ -13,33 +11,30 @@
         {% endif %}
 
         <div class="paper-p">
-        <!-- Authors -->
-        <span class="paper-div">
-        <ul class="paper-author-list">
-        {% for author in paper.authors %}
-            <li>
-            {% if author contains site.author or site.author contains author %}
-                <b>{{ author | strip | escape }}</b>
-            {% elsif site.aka contains author %}
-                <b>{{ author | strip | escape }}</b>
-            {% else %}
-                {{ author | strip | escape }}
-            {% endif %}
-            </li>
-        {% endfor %}
-        </ul>
-        </span>
+            <!-- Authors -->
+            <span class="paper-div">
+            <ul class="paper-author-list">
+            {% for author in paper.authors %}
+                <li>
+                {% if author contains site.author or site.author contains author %}
+                    <b>{{ author | strip | escape }}</b>
+                {% else %}
+                    {{ author | strip | escape }}
+                {% endif %}
+                </li>
+            {% endfor %}
+            </ul>
+            </span>
 
-        <!-- Meta Info -->
-        <span class="paper-meta paper-div">
-        {% if paper.note %}
-            <b> {{ paper.venue | escape }}, {{ paper.note | escape }}, {{ paper.year | escape }} </b>
-        {% else %}
-            <b> {{ paper.venue | escape }}, {{ paper.year | escape }} </b>
-        {% endif %}
-        </span>
-    </div>
+            <!-- Meta Info -->
+            <span class="paper-meta paper-div">
+            {% if paper.note %}
+                <b> {{ paper.venue | escape }}, {{ paper.note | escape }}, {{ paper.year | escape }} </b>
+            {% else %}
+                <b> {{ paper.venue | escape }}, {{ paper.year | escape }} </b>
+            {% endif %}
+            </span>
+        </div>
     </li>
-{% endfor %}
-{% endfor %}
+    {% endfor %}
 </ol>
