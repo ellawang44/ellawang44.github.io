@@ -6,7 +6,7 @@ layout: home
 title: Home
 ---
 
-I am a final year astronomy and astrophysics PhD student at the Australian National University, with many years of teaching experience in both computer science and physics/astronomy. I was born in China but have lived in Australia for most of my life, which means I am fluent in English and conversational in Mandarin. I spend most of my spare time playing games and reading books, but sometimes I like applying programming techniques to random things like using a clustering algorithm to create [a png image to ASCII art converter](https://github.com/ellawang44/image_manip). My catchphrase is: automate everything.
+I am a final year astronomy and astrophysics PhD student at the Australian National University, with many years of teaching experience in both computer science and physics/astronomy. I was born in China but have lived in Australia for most of my life, which means I am fluent in English and conversational in Mandarin. I spend most of my spare time playing games and reading books, but sometimes I like applying programming techniques to random things like using a clustering algorithm to create [a png image to ASCII art converter](https://github.com/ellawang44/image_manip). My life's goal is to automate everything.
 
 # My Research
 
