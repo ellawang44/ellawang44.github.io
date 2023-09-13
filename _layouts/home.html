@@ -32,9 +32,16 @@ layout: default
   -->
 
   <!-- Create paper list of publications -->
-  {% assign published_papers = site.papers | where: "ispublished", true | sort: "year" | reverse %}
-  <h2 class="paper-list-heading">Publications</h2>
+  {% assign first_author_papers = site.papers | where: "ispublished", true | where: "first-author", true | sort: "year" | reverse %}
+  <h2 class="paper-list-heading">First Author Publications</h2>
   <hr class="title-line">
+  {% include paper_list.html papers=first_author_papers %}
+
+    <!-- Create paper list of publications -->
+  {% assign published_papers = site.papers | where: "ispublished", true | where: "first-author", false | sort: "year" | reverse %}
+  <h2 class="paper-list-heading">Coauthor Publications</h2>
+  <hr class="title-line">
+  Here is a selection of 2 coauthored papers, for a complete list see my CV.
   {% include paper_list.html papers=published_papers %}
 
   <!-- Create paper list of preprints -->

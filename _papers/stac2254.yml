@@ -1,0 +1,59 @@
+---
+ENTRYTYPE: article
+ID: stac2254
+abstract: "{M 22 (NGC 6656) is a chemically complex globular cluster-like system reported\
+  \ to harbour heavy element abundance variations. However, the extent of these variations\
+  \ and the origin of this cluster is still debated. In this work, we investigate\
+  \ the chemical in-homogeneity of M 22 using differential line-by-line analysis of\
+  \ high-quality (R = 110\u2009000, S/N  = 300 per pixel at 514 nm) VLT/UVES spectra\
+  \ of six carefully chosen red giant branch stars. By achieving abundance uncertainties\
+  \ as low as \u223C0.01 dex (\u223C2 per\u2009cent), this high precision data validates\
+  \ the results of previous studies and reveals variations in Fe, Na, Si, Ca, Sc,\
+  \ Ti, Cr, Mn, Co, Ni, Zn, Y, Zr, La, Ce, Nd, Sm, and Eu. Additionally, we can confirm\
+  \ that the cluster hosts two stellar populations with a spread of at least 0.24\
+  \ dex in [Fe/H] and an average s-process abundance spread of 0.65 dex. In addition\
+  \ to global variations across the cluster, we also find non-negligible variations\
+  \ within each of the two populations, with the more metal-poor population hosting\
+  \ larger spreads in elements heavier than Fe than the metal-rich. We address previous\
+  \ works that do not identify anomalous abundances and relate our findings to our\
+  \ current dynamical understanding of the cluster. Given our results, we suggest\
+  \ that M 22 is either a nuclear star cluster, the product of two merged clusters,\
+  \ or an original building block of the Milky Way.}"
+author: McKenzie, M and Yong, D and Marino, A F and Monty, S and Wang, E and Karakas,
+  A I and Milone, A P and Legnardi, M V and Roederer, I U and Martell, S and Horta,
+  D
+authors:
+- M McKenzie
+- D Yong
+- A F Marino
+- S Monty
+- E Wang
+- A I Karakas
+- A P Milone
+- M V Legnardi
+- I U Roederer
+- S Martell
+- D Horta
+bdsk-url-1: https://doi.org/10.1093/mnras/stac2254
+category: null
+date: 2023-01-22 17:29:25.319261
+date-added: 2023-01-22 16:49:17 +1100
+date-modified: 2023-01-22 16:49:17 +1100
+doi: 10.1093/mnras/stac2254
+eprint: https://academic.oup.com/mnras/article-pdf/516/3/3515/45932096/stac2254.pdf
+ispublished: true
+first-author: false
+issn: 0035-8711
+journal: Monthly Notices of the Royal Astronomical Society
+month: 08
+number: '3'
+pages: 3515-3531
+poster: null
+title: 'The complex stellar system M 22: confirming abundance variations with high
+  precision differential measurements'
+url: null
+venue: Monthly Notices of the Royal Astronomical Society
+video: null
+volume: '516'
+year: '2022'
+...
